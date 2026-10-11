@@ -1,0 +1,31 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 15px;
+    text-align: left;
+    border-bottom: 1px solid #bb6f6f;
+}
+
+th {
+    background-color: #201f1f;
+}
+
+tr:hover {
+    background-color: #8177775e;
+}
+.addicionar{
+    background-color: rgba(36, 36, 36, 0.781);
+    color: white;
+    box-shadow: none;
+}
+.subtrair{
+    background-color: rgba(36, 36, 36, 0.781);
+    color: white;
+    box-shadow: none;   
+}
+.separado{
+    margin-top: 10%;
+}
